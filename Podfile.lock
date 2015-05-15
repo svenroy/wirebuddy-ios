@@ -1,0 +1,36 @@
+PODS:
+  - AFNetworking (2.5.0):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+    - AFNetworking/UIKit
+  - AFNetworking/NSURLConnection (2.5.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.0)
+  - AFNetworking/Security (2.5.0)
+  - AFNetworking/Serialization (2.5.0)
+  - AFNetworking/UIKit (2.5.0):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - ECSlidingViewController (2.0.3)
+  - TWTSideMenuViewController (0.3)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.0)
+  - ECSlidingViewController (~> 2.0.3)
+  - TWTSideMenuViewController (~> 0.3)
+
+SPEC CHECKSUMS:
+  AFNetworking: 0f54cb5d16ce38c1b76948faffb8d5fb705021c7
+  ECSlidingViewController: e79fe856bfb1a99a39c995377a1943e50f7647eb
+  TWTSideMenuViewController: 18633fb4be397ed1e83352ed50ddd55d04d94de3
+
+COCOAPODS: 0.34.4
